@@ -1,5 +1,6 @@
 # GenFlooder (regx)
 <p style="font-size: 16px;">This Project was made for a purpose to stop the internet access of PC that are connected with LAN. So basically what it will do is it will send Random Data Packets to your Default Gateway for example 192.168.XX with the port number. After sending data packets it will flood your network and all devices which are connected with LAN will get no internet access.</p>
+<a target="_blank" href="https://github.com/TutorialsAndroid/GenFlooder/releases/download/v1.0.0/regx.exe">Download EXE</a>
 
 </br>
 
