@@ -1,3 +1,5 @@
 /build
 /regx.spec
+/regxdebug.spec
+/Reset Data.spec
 /uninstall.spec
