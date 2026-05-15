@@ -18,4 +18,4 @@
 
 </br>
 
-<p>See the <a href="https://github.com/TutorialsAndroid/GenFlooder/python_installer.md">Python Installer</a> documentation for more info.</p> 
+<p>See the <a href="https://github.com/TutorialsAndroid/GenFlooder/blob/main/python_installer.md">Python Installer</a> documentation for more info.</p> 
