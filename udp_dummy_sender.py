@@ -1,8 +1,8 @@
 import socket
 import time
 
-TARGET_IP = "192.168.0.1"
-PORT = 80
+TARGET_IP = "192.168.0.1" # Change this to the target IP address you want to flood
+PORT = 80 # Change this to the target port you want to flood (e.g., 80 for HTTP, 53 for DNS, etc.)
 
 TOTAL_SIZE_GB = 6 * 1024
 CHUNK_SIZE = 60000
