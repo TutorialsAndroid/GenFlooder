@@ -1,4 +1,4 @@
-# GenFlooder - Build Guide
+# GenFlooder v2 - Build Guide
 
 This guide explains how to build the main application EXE and the uninstaller EXE using PyInstaller.
 
