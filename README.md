@@ -12,4 +12,10 @@
 
 </br>
 
-<p>The Main project can be found on <a href="https://github.com/geniuszly/GenFlooder">GenFlooder (Click to view)</a> </p>
+<p>The Main project can be found on <a href="https://github.com/geniuszly/GenFlooder">GenFlooder (Click to view)</a> . So actually I modified that python program and made a another version. Now what this version do is it automatically fetch default gateway and port number and start the UDP attack. Don't know how it will works on other LAN network. It actually worked on my office internet connection and all PC that were connected with LAN stopped having internet access 🤣.</a> </p>
+
+<p>So pleaseeeee, if anyone want to contribute and improve this program contributions are welcome</p>
+
+</br>
+
+<p>See the <a href="https://github.com/TutorialsAndroid/GenFlooder/python_installer.md">Python Installer</a> documentation for more info.</p> 
